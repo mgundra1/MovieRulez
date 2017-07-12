@@ -1,2 +1,2 @@
-# MovieRulez
-Movie rules web project
+# movierulz
+Web Programming Project 1
